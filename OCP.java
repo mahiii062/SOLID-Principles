@@ -80,7 +80,7 @@ class Triangle implements Shape {
     }
 }
 
-// calculator
+// calculator class
 class AreaCalculator {
     double calculateArea(Shape shape) {
         return shape.area();

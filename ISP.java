@@ -94,7 +94,7 @@ class HumanWorker
     }
 }
 
-// Robot
+// Robot class
 class RobotWorker
         implements Workable {
 

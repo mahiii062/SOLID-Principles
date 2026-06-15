@@ -62,7 +62,7 @@ class SendEmail {
     }
 }
 
-// main
+// main class
 public class SRP {
     public static void main(String[] args) {
 

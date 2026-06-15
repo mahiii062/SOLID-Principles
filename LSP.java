@@ -83,7 +83,7 @@ class Sparrow extends Flyingbird {
     // Sparrow can fly, so it inherits fly() method
 }
 
-// Penguin
+// Penguin class
 class Penguin extends Bird {
     // Penguin cannot fly, so it does not have fly() method
 }
