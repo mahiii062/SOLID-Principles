@@ -82,11 +82,11 @@ class HumanWorker
         Sleep {
 
     public void work() {
-        System.out.println("HumanWorking");
+        System.out.println("Human Working");
     }
 
     public void eat() {
-        System.out.println("HumanEating");
+        System.out.println("Human Eating");
     }
 
     public void sleep() {
