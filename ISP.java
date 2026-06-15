@@ -70,8 +70,8 @@ interface Eatable {
     void eat();
 }
 
-// Sleepable interface
-interface Sleepable {
+// Sleep interface
+interface Sleep {
     void sleep();
 }
 
@@ -79,7 +79,7 @@ interface Sleepable {
 class HumanWorker
         implements Workable,
         Eatable,
-        Sleepable {
+        Sleep {
 
     public void work() {
         System.out.println("HumanWorking");
